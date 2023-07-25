@@ -24,5 +24,5 @@
 # <br> **Desenvolvedores** #
 
 ## <p> A imagem abaixo mostra os desenvolvedores que participaram da construção deste maravilhoso projeto. </p> ##
+![Desenvolvedores](https://github.com/raffaP19/PokedexFinalPOO/assets/114430076/531a61aa-d20f-4d76-b81a-9228e711fc1e)
 
-![Desenvolvedores](/pokedexfinal/src/resources/imgs/Desenvolvedores.png "Desenvolvedores")
