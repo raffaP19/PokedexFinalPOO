@@ -1,0 +1,7 @@
+	- O programa possui as seguintes funções: Cadastrar Pokemon, Pesquisar Pokemon, Listar os Pokemons existentes, Apagar o Pokemon, Sortear Pokemon e Pesquisar os Pokemons pelo Tipo.
+
+	- A pokedex é uma versão modificada com os conhecimentos adquiridos ao longo da disciplina de POO, entretanto, o projeto ao qual meu grupo ficou de melhorar, foi a Pokedex apresentada semestre passado pelo grupo composto por: Rafaela, Adilson e Matheus. Nos empenhamos em trazer as funcionalidades já existentes e também teve o acréscimo da "Pesquisar Pokemon Pelo Tipo" em forma de interação com o usuário por meio do JFrame.
+
+	- Já que trabalhamos os "Bad Smells" em algums aulas, utilizamos nossos conhecimentos e boas práticas para ollhar o programa Pokedex, não conseguimos identificar nenhum dos smells.
+
+	- As melhorias futuras sempre são bem recebidas pelos programadores, por isso, pretendemos encaixar mais funções. Por exemplo, poderíamos sortear pokemons pelo tipo, entre outras possibilidades.
